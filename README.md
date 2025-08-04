@@ -22,7 +22,7 @@
 3. **프로그램 실행**
     
     ```
-    python main.py --youtube_url "원본 노래 Youtube URL" --singer_url "목소리 소스 Youtube URL"
+    python main.py \\-\\-youtube_url "원본 노래 Youtube URL" \\-\\-singer_url "목소리 소스 Youtube URL"
     ```
     
 - `complete.mp3` 파일을 확인하여 변환 결과를 들을 수 있습니다.
