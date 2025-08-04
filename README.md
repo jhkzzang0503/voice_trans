@@ -20,10 +20,8 @@
     - 변환할 음원이 있는 유튜브 링크를 준비합니다.
     - 변환의 원본이 될 보컬 음원 `source.wav` 파일과, 목표로 하는 목소리의 `target.wav` 파일을 준비합니다.
 3. **프로그램 실행**
+    - python main.py \-\-youtube_url "원본 노래 Youtube URL" \-\-singer_url "목소리 소스 Youtube URL"
     
-    ```
-    python main.py \-\-youtube_url "원본 노래 Youtube URL" \-\-singer_url "목소리 소스 Youtube URL"
-    ```
     
 - `complete.mp3` 파일을 확인하여 변환 결과를 들을 수 있습니다.
 
