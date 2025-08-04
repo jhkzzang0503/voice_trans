@@ -1,0 +1,19 @@
+{
+    "python_analysis": {
+        "main.py": {
+            "combine_audio": [],
+            "main": []
+        },
+        "voice_converter.py": {
+            "convert_wav_to_mp3": [],
+            "separate_audio": [],
+            "convert_voice": []
+        },
+        "youtube_downloader.py": {
+            "download_youtube_audio": []
+        }
+    },
+    "javascript_analysis": {},
+    "overall_error_detected": false,
+    "overall_message": "프로젝트 전체(Python & JS) 코드 구조 분석 완료 및 결과 저장."
+}
